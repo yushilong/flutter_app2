@@ -26,6 +26,7 @@ dependencies:
   fluttertoast: ^4.0.0
   dio: ^3.0.9
   awesome_dialog: ^0.1.4
+  scrolling_page_indicator: ^0.1.2
 
 dev_dependencies:
   flutter_test:
